@@ -1,0 +1,9 @@
+theia@theia-u25tec2csml1:/home/project/mcino-Int
+roduction-to-Git-and-GitHub$ git checkout main
+M       README.md
+Switched to branch 'main'
+theia@theia-u25tec2csml1:/home/project/mcin
+o-Introduction-to-Git-and-GitHub$ git commi
+t -m "update 2022 to 2023"
+[main c8bc435] update 2022 to 2023
+ 1 file changed, 1 insertion(+), 1 deletion(-)
