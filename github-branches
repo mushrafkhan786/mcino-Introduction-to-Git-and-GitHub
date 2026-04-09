@@ -1,0 +1,5 @@
+theia@theia-u25tec2csml1:/home/project/mcino-Introduction-to-Git-and-G
+itHub$ git branch -vv
+* bug-fix-revert a18939d Revert "Update README.md"
+  bug-fix-typo   ad95b0a Create close_pr.yml
+  main           c8bc435 [origin/main: ahead 1] update 2022 to 2023
